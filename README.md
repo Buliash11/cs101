@@ -11,3 +11,5 @@
 ___
 ![optnal text](https://3dnews.ru/assets/external/illustrations/2019/01/08/980747/sm.github-announces-free-unlimited-private-repositories-524462-2.750.png)
 
+![GRAPHIC DESIGN](photos/kil.png)
+> is the process of visual communication and problem-solving through the use of typography, photography, and illustration. ... Graphic designers create and combine symbols, images and text to form visual representations of ideas and messages.
