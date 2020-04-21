@@ -1,2 +1,2 @@
-!(cs101/pictures/mandala.png "Мандала")
-!(cs101/pictures/abs.png "Абстракция")
+cs101/abs.PNG
+cs101/mandala.PNG
