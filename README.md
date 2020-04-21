@@ -1,2 +1,2 @@
-![alt text](pictures/mandala.png "Мандала")
-![alt text](pictures/abs.png "Абстракция")
+!(cs101/pictures/mandala.png "Мандала")
+!(cs101/pictures/abs.png "Абстракция")
